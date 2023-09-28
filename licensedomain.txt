@@ -1,6 +1,5 @@
 teamgdv.com
 checkkdv.com
-gdvmmo.vn
 checkluadao.vn
 adminaov.com
 baonha.me
@@ -10,3 +9,4 @@ checkadm.com
 tranhluadao.vn
 checkadm.info
 adminpro.vn
+adminff.vn
