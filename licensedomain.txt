@@ -11,4 +11,3 @@ checkadm.info
 adminpro.vn
 adminff.vn
 gdtg.vn
-adminmmo.vn
