@@ -12,3 +12,5 @@ adminff.vn
 checkgdv.vn
 admingdv.vn
 www.admingdv.vn
+checkad.vn
+www.checkad.vn
