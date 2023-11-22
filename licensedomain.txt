@@ -10,8 +10,8 @@ checkadm.info
 adminpro.vn
 adminff.vn
 checkgdv.vn
-admingdv.vn
-www.admingdv.vn
+adminvietnam.vn
+www.adminvietnam.vn
 checkad.vn
 www.checkad.vn
 admmo.vn
